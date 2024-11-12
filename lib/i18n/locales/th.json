@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "welcome": "ยินดีต้อนรับกลับ, {{name}}!",
+    "stats": {
+      "totalUsers": "จำนวนผู้ใช้ทั้งหมด",
+      "totalOrders": "จำนวนคำสั่งซื้อทั้งหมด",
+      "revenue": "รายได้",
+      "growth": "การเติบโต"
+    },
+    "menu": {
+      "dashboard": "แดชบอร์ด",
+      "users": "ผู้ใช้",
+      "orders": "คำสั่งซื้อ",
+      "settings": "ตั้งค่า"
+    }
+  }
+}

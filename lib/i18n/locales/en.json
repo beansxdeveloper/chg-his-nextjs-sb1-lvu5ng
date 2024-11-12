@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}!",
+    "stats": {
+      "totalUsers": "Total Users",
+      "totalOrders": "Total Orders",
+      "revenue": "Revenue",
+      "growth": "Growth"
+    },
+    "menu": {
+      "dashboard": "Dashboard",
+      "users": "Users",
+      "orders": "Orders",
+      "settings": "Settings"
+    }
+  }
+}
